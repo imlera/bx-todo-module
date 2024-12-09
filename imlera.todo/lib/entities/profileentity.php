@@ -44,7 +44,7 @@ namespace Imlera\Todo\Entities;
  * @method static EO_EmployeeProfile fetchObject() Fetch one object from the query result
  * @method static EO_EmployeeProfile_Collection fetchCollection() Fetch a collection of objects from the query result
  */
-class ProfileEntity extends \Imlera\Tables\EO_Employee
+class ProfileEntity extends \Imlera\Todo\Tables\EO_Employee
 {
 
 }

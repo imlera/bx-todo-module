@@ -55,7 +55,7 @@ namespace Imlera\Todo\Entities;
  * @method static EO_Task fetchObject() Fetch one object from the query result
  * @method static EO_Task_Collection fetchCollection() Fetch a collection of objects from the query result
  */
-class TaskEntity extends \Imlera\Tables\EO_Task
+class TaskEntity extends \Imlera\Todo\Tables\EO_Task
 {
 
 }
